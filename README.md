@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikumardube&label=Profile%20views&color=0e75b6&style=flat" alt="ravikumardube" /> </p>
 
-- 🔭 I’m currently working on **Bus_Seat_Booking_System**
+- 🔭 I’m currently working on **Hardware**
 
-- 🌱 I’m currently learning **Python Basic**
+- 🌱 I’m currently learning **Research**
 
-- 💬 Ask me about **Python,C,C++,Html,CSS,JS**
+- 💬 Ask me about **Python,C,C++,Html,CSS,Java,c,c++**
 
 - 📫 How to reach me **ramanndube@gmail.com**
 
